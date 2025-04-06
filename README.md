@@ -1,5 +1,5 @@
 ### Hi there 👋, **i'm hangxdd**
-### learning and aspiring to be a full-stack developer!
-### I'm a Programming technician graduate, currently studying to become a Programming Engineer.
+### learning and aspiring to be a Web Developer!
+### Programming technician graduate.
 
-Skills: **Laravel / Django / Vue JS / Vite / Tailwind CSS / CSS / PHP / Python / MySQL / JavaScript**
+Skills: **Laravel / Django / Vue JS / Tailwind CSS / PHP / Python / SQL / JavaScript**
