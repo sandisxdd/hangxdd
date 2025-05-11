@@ -1,5 +1,5 @@
 ### Hi there 👋, **i'm sandisxdd**
-### learning and aspiring to be a Web Developer!
-### Programming technician graduate.
+### Currently working as a Data Engineer
+### Programming technician graduate
 
-Skills: **Laravel / Django / Vue JS / Tailwind CSS / PHP / Python / SQL / JavaScript**
+Skills: **Laravel / Django / Vue JS / Tailwind CSS / PHP / Python / SQL / JavaScript / AI**
